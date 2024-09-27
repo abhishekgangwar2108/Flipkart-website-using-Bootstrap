@@ -1,0 +1,26 @@
+.no-bullets{
+    list-style-type: none;
+    padding: 0;
+}
+
+.row ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.row ul li a:hover{
+    text-decoration: underline;
+}
+
+.row hr {
+    border-top: 2px solid #ffffff;
+}
+
+.vertical-line{
+    width: 1px;
+    background-color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+}
